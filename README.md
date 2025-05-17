@@ -1,5 +1,11 @@
 # 👋 Olá, eu sou o Carlos
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=40F9BC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Estudante+de+Matem%C3%A1tica+Aplicada+e+Computacional;Explorador+de+Otimiza%C3%A7%C3%A3o+e+IA;Criando+solu%C3%A7%C3%B5es+para+problemas+complexos" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🌌 Sobre mim
 
 - 🎓 Estudante de **Matemática Aplicada e Computacional** na Unicamp  
@@ -10,22 +16,32 @@
 
 ---
 
+## 🧠 Frase de Impacto
+
+> **"Inteligência, em essência, trata-se da tomada de decisão otimizada ao contexto."**
+
+---
+
+## 🔧 Stack Atual
+
+- **Linguagens:** Python, MATLAB, Julia, C, LaTeX  
+- **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, CUTEst, Streamlit  
+- **Ferramentas:** Git, Jupyter, VS Code, Colab, Obsidian
+
+---
+
 ## 🚀 Tecnologias e Habilidades
 
 <p>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
-
-- **Linguagens:** Python, MATLAB, Julia, C, LaTeX  
-- **Ferramentas:** Git, Jupyter, VS Code, Colab, Obsidian  
-- **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, CUTEst, Streamlit
 
 ---
 
@@ -33,16 +49,25 @@
 
 | Projeto                                                         | Descrição                                                                                                     | Status       |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
-| [OptiLab](https://github.com/seu-usuario/OptiLab)               | Plataforma modular para experimentos com algoritmos de otimização não linear (BFGS, Gradiente, Armijo).     | Concluído    |
 | [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Beta         |
 | [IC-Methods](https://github.com/seu-usuario/IC-Methods)         | Implementações e testes de algoritmos de inteligência computacional, com foco em heurísticas e metaheurísticas. | Em desenvolvimento |
 | [ANFIS-Energy](https://github.com/seu-usuario/ANFIS-Energy)     | Aplicação de redes ANFIS para previsão de consumo de energia elétrica a partir de dados reais.               | Em desenvolvimento |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## ✨ Animações e Estatísticas
 
-<!-- Em breve: integração com gráficos personalizados ou badges -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=seu-usuario&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=brightgreen" alt="Visualizações de perfil" />
