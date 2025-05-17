@@ -33,9 +33,7 @@
 
 | Projeto                                                         | Descrição                                                                                                     | Status       |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
-| [SimplexFlow](https://github.com/seu-usuario/SimplexFlow)       | Framework para estudo e aplicação do método Simplex e Dual, com análise de sensibilidade.                    | Em andamento |
 | [OptiLab](https://github.com/seu-usuario/OptiLab)               | Plataforma modular para experimentos com algoritmos de otimização não linear (BFGS, Gradiente, Armijo).     | Concluído    |
-| [BioMathSim](https://github.com/seu-usuario/BioMathSim)         | Simulação de modelos biológicos com EDOs e técnicas de análise de estabilidade.                              | Em andamento |
 | [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Beta         |
 | [IC-Methods](https://github.com/seu-usuario/IC-Methods)         | Implementações e testes de algoritmos de inteligência computacional, com foco em heurísticas e metaheurísticas. | Em desenvolvimento |
 | [ANFIS-Energy](https://github.com/seu-usuario/ANFIS-Energy)     | Aplicação de redes ANFIS para previsão de consumo de energia elétrica a partir de dados reais.               | Em desenvolvimento |
