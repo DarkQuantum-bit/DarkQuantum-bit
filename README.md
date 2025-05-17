@@ -16,9 +16,31 @@
 
 ---
 
+## 🔥 Animações & Destaques
+
+<p align="center">
+  <!-- Rede Neural Animada -->
+  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Rede Neural" width="350" style="margin: 10px;"/>
+
+  <!-- Terminal com código de deep learning -->
+  <img src="https://media.giphy.com/media/3o6gE5aYhPbG4XHkB2/giphy.gif" alt="Terminal codando Deep Learning" width="350" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+  <!-- Coruja piscando -->
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Coruja piscando" width="150" style="margin: 10px;"/>
+
+  <!-- W se transformando em circuito -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="W circuito" width="150" style="margin: 10px;"/>
+</p>
+
+---
+
 ## 🧠 Frase de Impacto
 
-> **"Inteligência, em essência, trata-se da tomada de decisão otimizada ao contexto."**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=40F9BC&center=true&vCenter=true&width=650&height=70&lines=%22Intelig%C3%AAncia,+em+ess%C3%AAncia,+trata-se+da+tomada+de+decis%C3%A3o+otimizada+ao+contexto.%22" alt="Frase de impacto animada"/>
+</p>
 
 ---
 
@@ -52,26 +74,6 @@
 | [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Beta         |
 | [IC-Methods](https://github.com/seu-usuario/IC-Methods)         | Implementações e testes de algoritmos de inteligência computacional, com foco em heurísticas e metaheurísticas. | Em desenvolvimento |
 | [ANFIS-Energy](https://github.com/seu-usuario/ANFIS-Energy)     | Aplicação de redes ANFIS para previsão de consumo de energia elétrica a partir de dados reais.               | Em desenvolvimento |
-
----
-
-## ✨ Animações e Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?DarkQuantum-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?DarkQuantum-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?DarkQuantum-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?DarkQuantum-bit&color=brightgreen" alt="Visualizações de perfil" />
-</p>
 
 ---
 
