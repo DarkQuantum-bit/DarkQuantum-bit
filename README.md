@@ -6,7 +6,7 @@
 - 🔭 Apaixonado por **ciências**, **tecnologia**, **engenharia**, **matemática**, **computação** e **filosofia**
 - 🌱 Explorando áreas como **Otimização**, **Inteligência computacional**, **Data Science** e **Machine Learning.**
 - 💬 Sempre curioso para discutir temas complexos e encontrar soluções criativas
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Email](mailto:seu.email@exemplo.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/carlos-gabriel-ribeiro-135426248/) | [Email](c232791@dac.unicamp.br)
 
 ---
 
@@ -22,7 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 
 - **Linguagens:** Python, MATLAB, Julia, C, LaTeX  
-- **Ferramentas:** Git, Jupyter, VS Code, Obsidian  
+- **Ferramentas:** Git, Jupyter, VS Code, Colab, Obsidian  
 - **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, CUTEst, Streamlit
 
 ---
@@ -40,14 +40,9 @@
 
 ## 📈 Meu Status de Contribuição
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+<p>
+  Em construção
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## 📫 Vamos conversar?
