@@ -16,14 +16,6 @@
 
 ---
 
-## 🧠 Frase de Impacto
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=40F9BC&center=true&vCenter=true&width=650&height=70&lines=%22Intelig%C3%AAncia,+em+ess%C3%AAncia,+trata-se+da+tomada+de+decis%C3%A3o+otimizada+ao+contexto.%22" alt="Frase de impacto animada"/>
-</p>
-
----
-
 ## 🔧 Stack Atual
 
 - **Linguagens:** Python, MATLAB, Julia, C, LaTeX  
