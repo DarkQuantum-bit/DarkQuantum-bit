@@ -16,26 +16,6 @@
 
 ---
 
-## 🔥 Animações & Destaques
-
-<p align="center">
-  <!-- Rede Neural Animada -->
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Rede Neural" width="350" style="margin: 10px;"/>
-
-  <!-- Terminal com código de deep learning -->
-  <img src="https://media.giphy.com/media/3o6gE5aYhPbG4XHkB2/giphy.gif" alt="Terminal codando Deep Learning" width="350" style="margin: 10px;"/>
-</p>
-
-<p align="center">
-  <!-- Coruja piscando -->
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Coruja piscando" width="150" style="margin: 10px;"/>
-
-  <!-- W se transformando em circuito -->
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="W circuito" width="150" style="margin: 10px;"/>
-</p>
-
----
-
 ## 🧠 Frase de Impacto
 
 <p align="center">
