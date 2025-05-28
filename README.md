@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Carlos
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=40F9BC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Estudante+de+Matematica+Aplicada+e+Computacional;Otimizacao+e+Inteligencia+Computacional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=40F9BC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Estudante+de+Matematica+Aplicada+e+Computacional;Otimiza%C3%A7%C3%A3o+e+Intelig%C3%AAncia+Computacional" alt="Typing SVG" />
 </p>
 
 ---
