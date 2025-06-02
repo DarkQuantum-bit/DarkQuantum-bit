@@ -18,7 +18,7 @@
 
 ## 🎯 Interesses
 
-- 🔍 **Otimização não-linear**, **Otimização convexa**, **Otimização em grafos**  
+- 🔍 **Otimização não-linear**, **Otimização convexa**
 - 🧬 **Redes neurais artificiais**, **Sistemas fuzzy**, **Computação evolutiva**
 
 ---
