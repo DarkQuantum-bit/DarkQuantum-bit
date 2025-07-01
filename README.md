@@ -52,8 +52,6 @@
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
 | [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Beta         |
 | [IC-Methods](https://github.com/seu-usuario/IC-Methods)         | Implementações e testes de algoritmos de inteligência computacional, com foco em heurísticas e metaheurísticas. | Em desenvolvimento |
-| [ANFIS-Energy](https://github.com/seu-usuario/ANFIS-Energy)     | Aplicação de redes ANFIS para previsão de consumo de energia elétrica a partir de dados reais.               | Em desenvolvimento |
-
 ---
 
 ## 🤝 Vamos colaborar?
