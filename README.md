@@ -25,8 +25,8 @@
 
 ## 🔧 Stack Atual
 
-- **Linguagens:** Python, MATLAB, Julia, C, LaTeX  
-- **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, CUTEst, Streamlit  
+- **Linguagens:** Python, Julia, C
+- **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, Scikit-learn, Streamlit  
 - **Ferramentas:** Git, Jupyter, VS Code, Colab, Obsidian
 
 ---
