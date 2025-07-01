@@ -35,10 +35,8 @@
 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
