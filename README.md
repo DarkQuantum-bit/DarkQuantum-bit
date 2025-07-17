@@ -55,7 +55,3 @@
 ## 🤝 Vamos colaborar?
 
 Sinta-se à vontade para abrir uma issue, enviar uma mensagem ou apenas trocar ideias sobre qualquer tema envolvendo STEM, otimização ou inteligência computacional. Estou sempre aberto a novas conexões e colaborações!
-
-<img src="https://raw.githubusercontent.com/DarkQuantum-bit/DarkQuantum-bit/output/snake.svg" alt="Snake animation" />
-
-###
