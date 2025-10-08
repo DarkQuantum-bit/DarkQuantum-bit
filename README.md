@@ -11,15 +11,15 @@
 - 🎓 Estudante de **Matemática Aplicada e Computacional** na Unicamp  
 - 🤖 Explorador de **Otimização**, **Inteligência Computacional**, **Data Science** e **Aprendizado de Máquina**
 - 💡 Foco em soluções criativas para problemas complexos, com base sólida em matemática, lógica e programação
-- 🧠 Apaixonado por ciência, tecnologia, engenharia, computação e filosofia
+- 🧠 Apaixonado por conhecimentos STEM
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/carlos-gabriel-ribeiro-135426248/) | [Email](mailto:c232791@dac.unicamp.br)
 
 ---
 
 ## 🎯 Interesses
 
-- 🔍 **Otimização não-linear**, **Otimização convexa**
-- 🧬 **Redes neurais artificiais**, **Sistemas fuzzy**, **Computação evolutiva**
+- 🔍 **Otimização matemática**
+- 🧬 **Inteligência Computacional**
 
 ---
 
@@ -48,8 +48,7 @@
 
 | Projeto                                                         | Descrição                                                                                                     | Status       |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Beta         |
-| [IC-Methods](https://github.com/seu-usuario/IC-Methods)         | Implementações e testes de algoritmos de inteligência computacional, com foco em heurísticas e metaheurísticas. | Em desenvolvimento |
+| [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Em desenvolvimento |
 ---
 
 ## 🤝 Vamos colaborar?
