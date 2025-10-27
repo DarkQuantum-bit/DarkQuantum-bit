@@ -41,14 +41,6 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 </p>
-
----
-
-## 🧪 Projetos em Destaque
-
-| Projeto                                                         | Descrição                                                                                                     | Status       |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Rede WYMS](https://github.com/seu-usuario/WYMS)                | Protótipo de rede social educativa baseada em gamificação e aprendizagem colaborativa.                       | Em desenvolvimento |
 ---
 
 ## 🤝 Vamos colaborar?
