@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou o Carlos
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=40F9BC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Estudante+de+Matem%C3%A1tica+Aplicada+e+Computacional;Otimiza%C3%A7%C3%A3o+e+Intelig%C3%AAncia+Computacional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=40F9BC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Matem%C3%A1tico+Aplicado+e+Computacional;Otimiza%C3%A7%C3%A3o+e+Intelig%C3%AAncia+Computacional" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌌 Sobre mim
 
-- 🎓 Estudante de **Matemática Aplicada e Computacional** na Unicamp  
-- 🤖 Explorador de **Otimização**, **Inteligência Computacional**, **Data Science** e **Aprendizado de Máquina**
+- 🎓 Graduado em **Matemática Aplicada e Computacional** pela Unicamp  
+- 🤖 Forte interesse em: **Data Science**, **Computação Natural** e **Pesquisa Operacional**
 - 💡 Foco em soluções criativas para problemas complexos, com base sólida em matemática, lógica e programação
 - 🧠 Apaixonado por conhecimentos STEM
 - 📫 Contato: [LinkedIn](https://www.linkedin.com/in/carlos-gabriel-ribeiro-135426248/) | [Email](mailto:c232791@dac.unicamp.br)
@@ -18,16 +18,20 @@
 
 ## 🎯 Interesses
 
-- 🔍 **Otimização matemática**
-- 🧬 **Inteligência Computacional**
+-🔍 Otimização matemática
+-🧬 Inteligência Computacional
+-🧬 Computação evolutiva
+-🌿 Vida artificial
+-📊 Modelagem
+-🧠 Redes neurais
 
 ---
 
 ## 🔧 Stack Atual
 
-- **Linguagens:** Python, Julia, C
-- **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, Sklearn, Streamlit  
-- **Ferramentas:** Git, Jupyter, VS Code, Colab, Obsidian
+- **Linguagens:** Python, Julia, C, R, SQL
+- **Bibliotecas:** NumPy, SciPy, Pandas, Matplotlib, TensorFlow, Sklearn, Streamlit, Django
+- **Ferramentas:** Git, Jupyter, VS Code, Colab, Obsidian, Pluto notebook
 
 ---
 
