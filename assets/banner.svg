@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="DarkQuantum — neural network visualization">
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0a1319"/><stop offset="1" stop-color="#102732"/></linearGradient>
+    <linearGradient id="connection" x2="1" y2="0"><stop stop-color="#1c8290" stop-opacity=".18"/><stop offset="1" stop-color="#54d9e6" stop-opacity=".65"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="12" fill="url(#background)"/>
+  <g fill="none" stroke="url(#connection)" stroke-width="1.3">
+    <path d="M790 62L875 38M790 62L875 98M790 62L875 158M790 62L875 218M790 130L875 38M790 130L875 98M790 130L875 158M790 130L875 218M790 198L875 38M790 198L875 98M790 198L875 158M790 198L875 218"/>
+    <path d="M875 38L972 68M875 38L972 130M875 38L972 192M875 98L972 68M875 98L972 130M875 98L972 192M875 158L972 68M875 158L972 130M875 158L972 192M875 218L972 68M875 218L972 130M875 218L972 192"/>
+    <path d="M972 68L1080 94M972 68L1080 166M972 130L1080 94M972 130L1080 166M972 192L1080 94M972 192L1080 166"/>
+  </g>
+  <g fill="#102d38" stroke="#5fd7e3" stroke-width="2">
+    <circle cx="790" cy="62" r="9"/><circle cx="790" cy="130" r="9"/><circle cx="790" cy="198" r="9"/>
+    <circle cx="875" cy="38" r="10"/><circle cx="875" cy="98" r="10"/><circle cx="875" cy="158" r="10"/><circle cx="875" cy="218" r="10"/>
+    <circle cx="972" cy="68" r="11"/><circle cx="972" cy="130" r="11"/><circle cx="972" cy="192" r="11"/>
+    <circle cx="1080" cy="94" r="12"/><circle cx="1080" cy="166" r="12"/>
+  </g>
+  <path d="M48 67V193" stroke="#5fd7e3" stroke-width="3"/>
+  <text x="71" y="124" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" fill="#eef8fa">DarkQuantum</text>
+  <text x="73" y="161" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#a7bec5">Mathematics · Machine Learning · Computing</text>
+</svg>
