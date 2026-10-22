@@ -15,9 +15,13 @@ I use this space to share implementations, experiments, and projects.
 - **[Integer Programming](https://github.com/DarkQuantum-bit/programacao-inteira)** — project portfolio optimization.
 - **[Network Flows](https://github.com/DarkQuantum-bit/fluxos_em_redes)** — network-flow models and algorithms.
 
-### Tools
+### Technologies & Interests
 
-`Python` · `NumPy` · `pandas` · `scikit-learn` · `PyTorch` · `SQL` · `Git`
+**Languages:** `Python` · `SQL` · `Julia` · `C`
+
+**Data & AI:** `Data Analysis` · `Machine Learning` · `Deep Learning`
+
+**Mathematics:** `Mathematical Optimization` · `Scientific Computing` · `Mathematical Modeling`
 
 ### Contributions
 
