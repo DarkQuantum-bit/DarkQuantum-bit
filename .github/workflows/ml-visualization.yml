@@ -1,0 +1,36 @@
+name: Generate ML training animation
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/train_visualization.py'
+      - 'requirements.txt'
+      - '.github/workflows/ml-visualization.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Render synthetic neural-network training visualization
+        run: python scripts/train_visualization.py
+      - name: Commit generated GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/ml-training.gif
+          if ! git diff --cached --quiet; then
+            git commit -m "Update ML training visualization"
+            git push
+          fi
