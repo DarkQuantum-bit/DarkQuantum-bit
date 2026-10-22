@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="278" viewBox="0 0 1200 278" role="img" aria-label="DarkQuantum. Applied mathematics, machine learning, optimization and scientific computing. Neural network illustration.">
+<defs>
+  <linearGradient id="background" x2="1" y2="1"><stop stop-color="#07131C"/><stop offset=".62" stop-color="#0A202A"/><stop offset="1" stop-color="#0A313B"/></linearGradient>
+  <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#11CBD7"/><stop offset="1" stop-color="#4A9CCC"/></linearGradient>
+  <radialGradient id="bloom"><stop stop-color="#00DCE7" stop-opacity=".22"/><stop offset="1" stop-color="#00DCE7" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="278" fill="url(#background)"/>
+<ellipse cx="955" cy="130" rx="330" ry="220" fill="url(#bloom)"/>
+<g stroke="#184754" stroke-opacity=".22" stroke-width="1">
+<path d="M0 0V278"/>
+<path d="M54 0V278"/>
+<path d="M108 0V278"/>
+<path d="M162 0V278"/>
+<path d="M216 0V278"/>
+<path d="M270 0V278"/>
+<path d="M324 0V278"/>
+<path d="M378 0V278"/>
+<path d="M432 0V278"/>
+<path d="M486 0V278"/>
+<path d="M540 0V278"/>
+<path d="M594 0V278"/>
+<path d="M648 0V278"/>
+<path d="M702 0V278"/>
+<path d="M756 0V278"/>
+<path d="M810 0V278"/>
+<path d="M864 0V278"/>
+<path d="M918 0V278"/>
+<path d="M972 0V278"/>
+<path d="M1026 0V278"/>
+<path d="M1080 0V278"/>
+<path d="M1134 0V278"/>
+<path d="M1188 0V278"/>
+<path d="M0 0H1200"/>
+<path d="M0 54H1200"/>
+<path d="M0 108H1200"/>
+<path d="M0 162H1200"/>
+<path d="M0 216H1200"/>
+<path d="M0 270H1200"/>
+</g><g stroke="url(#edge)" stroke-width="1.2" fill="none">
+<path d="M690 39L806 78" opacity="0.25"/>
+<path d="M690 39L806 122" opacity="0.34"/>
+<path d="M690 39L806 166" opacity="0.43"/>
+<path d="M690 39L806 210" opacity="0.16"/>
+<path d="M690 91L806 34" opacity="0.25"/>
+<path d="M690 91L806 78" opacity="0.34"/>
+<path d="M690 91L806 166" opacity="0.16"/>
+<path d="M690 91L806 210" opacity="0.25"/>
+<path d="M690 91L806 254" opacity="0.34"/>
+<path d="M690 143L806 34" opacity="0.34"/>
+<path d="M690 143L806 78" opacity="0.43"/>
+<path d="M690 143L806 122" opacity="0.16"/>
+<path d="M690 143L806 166" opacity="0.25"/>
+<path d="M690 143L806 254" opacity="0.43"/>
+<path d="M690 195L806 34" opacity="0.43"/>
+<path d="M690 195L806 122" opacity="0.25"/>
+<path d="M690 195L806 166" opacity="0.34"/>
+<path d="M690 195L806 210" opacity="0.43"/>
+<path d="M690 195L806 254" opacity="0.16"/>
+<path d="M690 247L806 34" opacity="0.16"/>
+<path d="M690 247L806 78" opacity="0.25"/>
+<path d="M690 247L806 122" opacity="0.34"/>
+<path d="M690 247L806 210" opacity="0.16"/>
+<path d="M690 247L806 254" opacity="0.25"/>
+<path d="M806 34L932 52" opacity="0.25"/>
+<path d="M806 34L932 111" opacity="0.34"/>
+<path d="M806 34L932 229" opacity="0.16"/>
+<path d="M806 78L932 52" opacity="0.34"/>
+<path d="M806 78L932 111" opacity="0.43"/>
+<path d="M806 78L932 170" opacity="0.16"/>
+<path d="M806 78L932 229" opacity="0.25"/>
+<path d="M806 122L932 52" opacity="0.43"/>
+<path d="M806 122L932 170" opacity="0.25"/>
+<path d="M806 122L932 229" opacity="0.34"/>
+<path d="M806 166L932 52" opacity="0.16"/>
+<path d="M806 166L932 111" opacity="0.25"/>
+<path d="M806 166L932 170" opacity="0.34"/>
+<path d="M806 210L932 111" opacity="0.34"/>
+<path d="M806 210L932 170" opacity="0.43"/>
+<path d="M806 210L932 229" opacity="0.16"/>
+<path d="M806 254L932 52" opacity="0.34"/>
+<path d="M806 254L932 111" opacity="0.43"/>
+<path d="M806 254L932 229" opacity="0.25"/>
+<path d="M932 52L1061 84" opacity="0.34"/>
+<path d="M932 52L1061 143" opacity="0.43"/>
+<path d="M932 52L1061 202" opacity="0.16"/>
+<path d="M932 111L1061 84" opacity="0.43"/>
+<path d="M932 111L1061 202" opacity="0.25"/>
+<path d="M932 170L1061 84" opacity="0.16"/>
+<path d="M932 170L1061 143" opacity="0.25"/>
+<path d="M932 170L1061 202" opacity="0.34"/>
+<path d="M932 229L1061 143" opacity="0.34"/>
+<path d="M932 229L1061 202" opacity="0.43"/>
+<path d="M1061 84L1151 118" opacity="0.43"/>
+<path d="M1061 143L1151 118" opacity="0.16"/>
+<path d="M1061 143L1151 178" opacity="0.25"/>
+<path d="M1061 202L1151 178" opacity="0.34"/>
+</g><g fill="#071E28" stroke="#39DDE8" stroke-width="1.55">
+<circle cx="690" cy="39" r="5.4" opacity="0.72"/>
+<circle cx="690" cy="91" r="5.4" opacity="0.83"/>
+<circle cx="690" cy="143" r="5.4" opacity="0.94"/>
+<circle cx="690" cy="195" r="5.4" opacity="0.72"/>
+<circle cx="690" cy="247" r="5.4" opacity="0.83"/>
+<circle cx="806" cy="34" r="6.5" opacity="0.72"/>
+<circle cx="806" cy="78" r="6.5" opacity="0.83"/>
+<circle cx="806" cy="122" r="6.5" opacity="0.94"/>
+<circle cx="806" cy="166" r="6.5" opacity="0.72"/>
+<circle cx="806" cy="210" r="6.5" opacity="0.83"/>
+<circle cx="806" cy="254" r="6.5" opacity="0.94"/>
+<circle cx="932" cy="52" r="5.4" opacity="0.72"/>
+<circle cx="932" cy="111" r="5.4" opacity="0.83"/>
+<circle cx="932" cy="170" r="5.4" opacity="0.94"/>
+<circle cx="932" cy="229" r="5.4" opacity="0.72"/>
+<circle cx="1061" cy="84" r="6.5" opacity="0.72"/>
+<circle cx="1061" cy="143" r="6.5" opacity="0.83"/>
+<circle cx="1061" cy="202" r="6.5" opacity="0.94"/>
+<circle cx="1151" cy="118" r="5.4" opacity="0.72"/>
+<circle cx="1151" cy="178" r="5.4" opacity="0.83"/>
+</g><g fill="#5AEAF2">
+<circle cx="806" cy="122" r="2.2"/>
+<circle cx="932" cy="111" r="2.2"/>
+<circle cx="1061" cy="143" r="2.2"/>
+<circle cx="1151" cy="178" r="2.2"/>
+</g>
+<rect x="62" y="57" width="3" height="164" fill="#26DCE7"/>
+<text x="86" y="105" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#F0FBFF">DarkQuantum</text>
+<text x="88" y="145" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#A9E8EE">Carlos Gabriel Ribeiro</text>
+<text x="88" y="191" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#CEDDE2">Applied mathematics  /  Machine learning  /  Optimization</text>
+<path d="M0 276H1200" stroke="#22CAD7" stroke-opacity=".45" stroke-width="2"/>
+</svg>
