@@ -56,16 +56,15 @@ def draw_graph(ax, acts, epoch, loss):
     ax.set_facecolor('#0A1E27')
     ax.set_xticks([]); ax.set_yticks([])
     for sp in ax.spines.values():
-        sp.set_color('#20434D')
+        sp.set_color('#173642')
     ax.set_xlim(0, 1); ax.set_ylim(0, 1)
-    ax.set_title('Neural network graph', color='#E8FDFF', fontsize=11, pad=10)
 
-    layer_x = [0.08, 0.33, 0.62, 0.89]
+    layer_x = [0.10, 0.35, 0.62, 0.89]
     layer_sizes = [2, 8, 4, 1]
     layer_names = ['Input', 'Hidden 1', 'Hidden 2', 'Output']
     positions = []
     for x, n in zip(layer_x, layer_sizes):
-        ys = np.linspace(0.85, 0.15, n)
+        ys = np.linspace(0.81, 0.19, n)
         positions.append([(x, yi) for yi in ys])
 
     Ws = [params['W1'], params['W2'], params['W3']]
@@ -73,6 +72,8 @@ def draw_graph(ax, acts, epoch, loss):
     for l, W in enumerate(Ws):
         for i, (x1, y1) in enumerate(positions[l]):
             for j, (x2, y2) in enumerate(positions[l+1]):
+                if abs(W[i, j]) / (max_abs + 1e-9) < 0.37:
+                    continue
                 c, lw = edge_style(W[i, j], max_abs)
                 ax.plot([x1, x2], [y1, y2], color=c, lw=lw, solid_capstyle='round', zorder=1)
 
@@ -84,7 +85,7 @@ def draw_graph(ax, acts, epoch, loss):
     ]
 
     for lx, name, vals, pts in zip(layer_x, layer_names, node_values, positions):
-        ax.text(lx, 0.95, name, ha='center', va='center', color='#8FDDE5', fontsize=8)
+        ax.text(lx, 0.925, name, ha='center', va='center', color='#8FDDE5', fontsize=8)
         vmax = max(np.max(vals), 1e-6)
         for val, (x, y) in zip(vals, pts):
             alpha = 0.35 + 0.65 * (float(val) / vmax)
@@ -94,16 +95,13 @@ def draw_graph(ax, acts, epoch, loss):
             ax.scatter([x], [y], s=size, color=fc, edgecolors=[ec], linewidths=2.0, zorder=3)
             ax.scatter([x], [y], s=size*0.33, color=(0.35, 0.94, 0.97, alpha), edgecolors='none', zorder=4)
 
-    ax.text(0.03, 0.02, f'epoch {epoch:03d}   loss {loss:.3f}', color='#B6E5EA', fontsize=9)
-    ax.text(0.53, 0.02, 'edge intensity ≈ weight magnitude', color='#7DAEB5', fontsize=8, ha='center')
 
 
 def draw_boundary(ax, acts, epoch):
     ax.set_facecolor('#0A1E27')
     for sp in ax.spines.values():
-        sp.set_color('#20434D')
+        sp.set_color('#173642')
     ax.tick_params(colors='#95B6BE', labelsize=8)
-    ax.set_title('Decision boundary', color='#E8FDFF', fontsize=11, pad=10)
 
     xs = np.linspace(-2.7, 2.7, 160)
     ys = np.linspace(-2.2, 2.2, 128)
@@ -118,32 +116,28 @@ def draw_boundary(ax, acts, epoch):
     ax.scatter(X[y[:, 0] == 0, 0], X[y[:, 0] == 0, 1], s=14, c='#081A27', edgecolors='#4ADFEB', linewidths=0.55)
     ax.scatter(X[y[:, 0] == 1, 0], X[y[:, 0] == 1, 1], s=14, c='#E8FEFF', edgecolors='#99E6EE', linewidths=0.45)
     ax.set_xlim(-2.7, 2.7); ax.set_ylim(-2.2, 2.2)
-    ax.set_xlabel('Feature 1', color='#AFCED4', fontsize=8)
-    ax.set_ylabel('Feature 2', color='#AFCED4', fontsize=8)
-    ax.text(0.98, 0.03, 'two-moons', transform=ax.transAxes, ha='right', color='#B8E6EA', fontsize=8)
+    ax.set_xticks([]); ax.set_yticks([])
 
 
 def draw_loss(ax, losses, epoch, final_steps):
     ax.set_facecolor('#0A1E27')
     for sp in ax.spines.values():
-        sp.set_color('#20434D')
+        sp.set_color('#173642')
     ax.tick_params(colors='#95B6BE', labelsize=8)
-    ax.set_title('Training loss', color='#E8FDFF', fontsize=10, pad=8)
     ax.plot(range(len(losses)), losses, c='#47DDE8', lw=2)
     ax.scatter([len(losses)-1], [losses[-1]], c='#F0FEFF', s=24, zorder=3)
     ax.set_xlim(0, final_steps)
     ymax = max(0.75, max(losses) * 1.05)
     ax.set_ylim(0, ymax)
-    ax.set_xlabel('Step', color='#AFCED4', fontsize=8)
-    ax.set_ylabel('BCE', color='#AFCED4', fontsize=8)
+    ax.set_xticks([0, 100, 200]); ax.set_yticks([0, 0.4, 0.8])
     ax.grid(color='#274C57', alpha=0.28)
-    ax.text(0.97, 0.86, f'{losses[-1]:.3f}', transform=ax.transAxes, ha='right', color='#A7EDF2', fontsize=10)
+    ax.text(0.97, 0.82, f'loss  {losses[-1]:.3f}', transform=ax.transAxes, ha='right', color='#A7EDF2', fontsize=10)
 
 plt.rcParams.update({'font.family': 'DejaVu Sans'})
-fig = plt.figure(figsize=(11.2, 4.4), dpi=130)
+fig = plt.figure(figsize=(11.2, 4.3), dpi=130)
 fig.patch.set_facecolor('#07151E')
-gs = fig.add_gridspec(2, 2, width_ratios=[1.2, 1.05], height_ratios=[1.0, 0.58],
-                      left=0.045, right=0.985, bottom=0.12, top=0.95, wspace=0.18, hspace=0.24)
+gs = fig.add_gridspec(2, 2, width_ratios=[1.2, 1.05], height_ratios=[1.0, 0.48],
+                      left=0.035, right=0.985, bottom=0.075, top=0.945, wspace=0.13, hspace=0.15)
 ax_graph = fig.add_subplot(gs[:, 0])
 ax_bound = fig.add_subplot(gs[0, 1])
 ax_loss = fig.add_subplot(gs[1, 1])
