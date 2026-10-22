@@ -21,7 +21,7 @@ I use this space to share implementations, experiments, and projects.
 **Data & AI:** `Data Analysis` · `Machine Learning` · `Deep Learning`  
 **Mathematics:** `Optimization` · `Scientific Computing`
 
-[GitHub Actions](./.github/workflows/ml-visualization.yml).
+[](./.github/workflows/ml-visualization.yml).
 
 <div align="center">
   <img src="./assets/ml-training.gif" width="100%" alt="Animated neural network classification boundary and decreasing training loss on synthetic two-moons data" />
